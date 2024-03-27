@@ -1,0 +1,7 @@
+E:\003Code\001Net\002Homework\002Chat\001Socket\bin\Debug\001Socket.exe.config
+E:\003Code\001Net\002Homework\002Chat\001Socket\bin\Debug\001Socket.exe
+E:\003Code\001Net\002Homework\002Chat\001Socket\bin\Debug\001Socket.pdb
+E:\003Code\001Net\002Homework\002Chat\001Socket\obj\Debug\001Socket.csproj.AssemblyReference.cache
+E:\003Code\001Net\002Homework\002Chat\001Socket\obj\Debug\001Socket.csproj.CoreCompileInputs.cache
+E:\003Code\001Net\002Homework\002Chat\001Socket\obj\Debug\001Socket.exe
+E:\003Code\001Net\002Homework\002Chat\001Socket\obj\Debug\001Socket.pdb

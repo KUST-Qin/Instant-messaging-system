@@ -1,0 +1,9 @@
+E:\003Code\001Net\002Homework\002Chat\006Control\bin\Debug\006Control.dll
+E:\003Code\001Net\002Homework\002Chat\006Control\bin\Debug\006Control.pdb
+E:\003Code\001Net\002Homework\002Chat\006Control\obj\Debug\_006Control.ChatLabel.resources
+E:\003Code\001Net\002Homework\002Chat\006Control\obj\Debug\_006Control.ChatMainPanel.resources
+E:\003Code\001Net\002Homework\002Chat\006Control\obj\Debug\006Control.csproj.GenerateResource.cache
+E:\003Code\001Net\002Homework\002Chat\006Control\obj\Debug\006Control.csproj.CoreCompileInputs.cache
+E:\003Code\001Net\002Homework\002Chat\006Control\obj\Debug\006Control.dll
+E:\003Code\001Net\002Homework\002Chat\006Control\obj\Debug\006Control.pdb
+E:\003Code\001Net\002Homework\002Chat\006Control\obj\Debug\006Control.csproj.AssemblyReference.cache

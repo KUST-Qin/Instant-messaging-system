@@ -1,0 +1,6 @@
+E:\003Code\001Net\002Homework\002Chat\008Util\bin\Debug\008Util.dll
+E:\003Code\001Net\002Homework\002Chat\008Util\bin\Debug\008Util.pdb
+E:\003Code\001Net\002Homework\002Chat\008Util\obj\Debug\008Util.csproj.CoreCompileInputs.cache
+E:\003Code\001Net\002Homework\002Chat\008Util\obj\Debug\008Util.dll
+E:\003Code\001Net\002Homework\002Chat\008Util\obj\Debug\008Util.pdb
+E:\003Code\001Net\002Homework\002Chat\008Util\obj\Debug\008Util.csproj.AssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\003Code\001Net\002Homework\002Chat\002Client\obj\Debug\002Client.csproj.CoreCompileInputs.cache
+E:\003Code\001Net\002Homework\002Chat\002Client\bin\Debug\002Client.exe.config
+E:\003Code\001Net\002Homework\002Chat\002Client\bin\Debug\002Client.exe
+E:\003Code\001Net\002Homework\002Chat\002Client\bin\Debug\002Client.pdb
+E:\003Code\001Net\002Homework\002Chat\002Client\obj\Debug\002Client.exe
+E:\003Code\001Net\002Homework\002Chat\002Client\obj\Debug\002Client.pdb

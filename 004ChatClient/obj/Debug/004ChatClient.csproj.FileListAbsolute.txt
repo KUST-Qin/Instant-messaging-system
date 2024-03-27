@@ -1,0 +1,100 @@
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\004ChatClient.exe.config
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\004ChatClient.exe
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\004ChatClient.pdb
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\obj\Debug\004ChatClient.csproj.AssemblyReference.cache
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\obj\Debug\_004ChatClient.Properties.Resources.resources
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\obj\Debug\004ChatClient.csproj.GenerateResource.cache
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\obj\Debug\004ChatClient.csproj.CoreCompileInputs.cache
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\obj\Debug\004ChatClient.exe
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\obj\Debug\004ChatClient.pdb
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\006Control.dll
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\006Control.pdb
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\obj\Debug\004ChatClient.csproj.CopyComplete
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\obj\Debug\_004ChatClient.Login.resources
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\obj\Debug\_004ChatClient.Main.resources
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\007DB.exe
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\System.Text.Json.dll
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\SqlSugar.dll
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\System.Memory.dll
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\System.Text.Encodings.Web.dll
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\System.Numerics.Vectors.dll
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\System.Buffers.dll
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\Newtonsoft.Json.dll
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\007DB.pdb
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\007DB.exe.config
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\BouncyCastle.Crypto.dll
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\Google.Protobuf.dll
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\K4os.Compression.LZ4.dll
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\K4os.Hash.xxHash.dll
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\MySql.Data.dll
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\Ubiety.Dns.Core.dll
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\ZstdNet.dll
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\Google.Protobuf.pdb
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\Google.Protobuf.xml
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\K4os.Compression.LZ4.xml
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\K4os.Hash.xxHash.xml
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\MySql.Data.xml
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\System.Buffers.xml
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\System.Memory.xml
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\System.Numerics.Vectors.xml
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\obj\Debug\_004ChatClient.Register.resources
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\008Util.dll
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\008Util.pdb
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\bin\Debug\Newtonsoft.Json.xml
+E:\003Code\001Net\002Homework\002Chat\004ChatClient\obj\Debug\_004ChatClient.Form2.resources
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\004ChatClient.exe.config
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\004ChatClient.exe
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\004ChatClient.pdb
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\006Control.dll
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\007DB.exe
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\008Util.dll
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\BouncyCastle.Crypto.dll
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\Google.Protobuf.dll
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\K4os.Compression.LZ4.dll
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\K4os.Hash.xxHash.dll
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\MySql.Data.dll
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\Newtonsoft.Json.dll
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\System.Buffers.dll
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\System.Memory.dll
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\System.Numerics.Vectors.dll
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\Ubiety.Dns.Core.dll
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\ZstdNet.dll
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\SqlSugar.dll
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\System.Text.Encodings.Web.dll
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\006Control.pdb
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\007DB.pdb
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\007DB.exe.config
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\008Util.pdb
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\Google.Protobuf.pdb
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\Google.Protobuf.xml
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\K4os.Compression.LZ4.xml
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\K4os.Hash.xxHash.xml
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\MySql.Data.xml
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\Newtonsoft.Json.xml
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\System.Buffers.xml
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\System.Memory.xml
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\System.Numerics.Vectors.xml
+E:\新建文件夹 (6)\002Chat\004ChatClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\新建文件夹 (6)\002Chat\004ChatClient\obj\Debug\004ChatClient.csproj.AssemblyReference.cache
+E:\新建文件夹 (6)\002Chat\004ChatClient\obj\Debug\004ChatClient.csproj.SuggestedBindingRedirects.cache
+E:\新建文件夹 (6)\002Chat\004ChatClient\obj\Debug\_004ChatClient.Form2.resources
+E:\新建文件夹 (6)\002Chat\004ChatClient\obj\Debug\_004ChatClient.Main.resources
+E:\新建文件夹 (6)\002Chat\004ChatClient\obj\Debug\_004ChatClient.Login.resources
+E:\新建文件夹 (6)\002Chat\004ChatClient\obj\Debug\_004ChatClient.Properties.Resources.resources
+E:\新建文件夹 (6)\002Chat\004ChatClient\obj\Debug\_004ChatClient.Register.resources
+E:\新建文件夹 (6)\002Chat\004ChatClient\obj\Debug\004ChatClient.csproj.GenerateResource.cache
+E:\新建文件夹 (6)\002Chat\004ChatClient\obj\Debug\004ChatClient.csproj.CoreCompileInputs.cache
+E:\新建文件夹 (6)\002Chat\004ChatClient\obj\Debug\004ChatClient.csproj.CopyComplete
+E:\新建文件夹 (6)\002Chat\004ChatClient\obj\Debug\004ChatClient.exe
+E:\新建文件夹 (6)\002Chat\004ChatClient\obj\Debug\004ChatClient.pdb
